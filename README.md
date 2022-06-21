@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/wallas-curty-a2854b1a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
-  ![Snake animation](https://github.com/WallasCurty/WallasCurty/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 - 🔭 I’m currently working on University Vassouras
