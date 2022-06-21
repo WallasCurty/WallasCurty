@@ -9,8 +9,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
   <a href="https://github.com/wallascurty">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallascurty&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallascurty&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wallascurty&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallascurty&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
  ## Skills:
@@ -31,4 +31,6 @@
 
 </div>
 
-
+<div align="center">
+  <p>Thanks for the visit!</p>
+</div>
